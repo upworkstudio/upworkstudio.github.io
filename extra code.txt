@@ -1,4 +1,8 @@
-    <!-- Start client -->
+<li><a data-scroll href="#blog">blog</a></li>  
+
+<li><a data-scroll href="#testimonials">Testimonials</a></li>
+
+<!-- Start client -->
     <section id="client" class="light-bg p-top-80 p-bottom-80">
 
         <!-- Section Title -->
